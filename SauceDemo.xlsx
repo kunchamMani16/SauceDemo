@@ -1,9 +1,0 @@
-| TestCaseId | TestCaseName | TestCaseSteps | Pass | Fail |
-|------------|------------------------|-----------------------------------------------------|------|------|
-| TC_01 | Valid Username and Password | 1. Open the SauceDemo login page. <br> 2. Enter valid username. <br> 3. Enter valid password. <br> 4. Click on the Login button. |  |  |
-| TC_02 | Remember Me Functionality | 1. Open the SauceDemo login page. <br> 2. Check the "Remember Me" checkbox. <br> 3. Enter valid username. <br> 4. Enter valid password. <br> 5. Click on the Login button. |  |  |
-| TC_03 | Password Visibility Toggle | 1. Open the SauceDemo login page. <br> 2. Click on the "Show Password" icon. <br> 3. Verify that the password is visible. <br> 4. Click on the "Hide Password" icon. <br> 5. Verify that the password is hidden. |  |  |
-| TC_04 | Invalid Username | 1. Open the SauceDemo login page. <br> 2. Enter invalid username. <br> 3. Enter valid password. <br> 4. Click on the Login button. |  |  |
-| TC_05 | Invalid Password | 1. Open the SauceDemo login page. <br> 2. Enter valid username. <br> 3. Enter invalid password. <br> 4. Click on the Login button. |  |  |
-| TC_06 | Empty Username | 1. Open the SauceDemo login page. <br> 2. Leave the username field empty. <br> 3. Enter valid password. <br> 4. Click on the Login button. |  |  |
-| TC_07 | Empty Password | 1. Open the SauceDemo login page. <br> 2. Enter valid username. <br> 3. Leave the password field empty. <br> 4. Click on the Login button. |  |  |
