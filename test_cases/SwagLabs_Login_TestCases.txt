@@ -1,0 +1,53 @@
+- Manual Test Cases for Swag Labs Login Scenarios
+
+#### Successful Login Scenario:
+1. **TestCaseID**: TC_01
+   - **TestCaseName**: Verify successful login with valid credentials
+   - **TestCaseSteps**:
+     1. Open the Swag Labs website.
+     2. Enter valid username and password.
+     3. Click on the Login button.
+   - **Expected Outcome**: User should be successfully logged in and directed to the home page.
+   - **Actual Outcome**:
+   - **Pass/Fail**:
+
+2. **TestCaseID**: TC_02
+   - **TestCaseName**: Verify successful login with different valid credentials
+   - **TestCaseSteps**:
+     1. Open the Swag Labs website.
+     2. Enter another set of valid username and password.
+     3. Click on the Login button.
+   - **Expected Outcome**: User should be successfully logged in and directed to the home page.
+   - **Actual Outcome**:
+   - **Pass/Fail**:
+
+#### Unsuccessful Login Scenario:
+1. **TestCaseID**: TC_03
+   - **TestCaseName**: Verify login with invalid username
+   - **TestCaseSteps**:
+     1. Open the Swag Labs website.
+     2. Enter an invalid username and valid password.
+     3. Click on the Login button.
+   - **Expected Outcome**: User should not be able to log in and an error message should be displayed.
+   - **Actual Outcome**:
+   - **Pass/Fail**:
+
+2. **TestCaseID": TC_04
+   - **TestCaseName": Verify login with invalid password
+   - **TestCaseSteps":
+     1. Open the Swag Labs website.
+     2. Enter a valid username and an invalid password.
+     3. Click on the Login button.
+   - **Expected Outcome": User should not be able to log in and an error message should be displayed.
+   - **Actual Outcome":
+   - **Pass/Fail":
+
+3. **TestCaseID": TC_05
+   - **TestCaseName": Verify login with both invalid username and password
+   - **TestCaseSteps":
+     1. Open the Swag Labs website.
+     2. Enter an invalid username and an invalid password.
+     3. Click on the Login button.
+   - **Expected Outcome": User should not be able to log in and an error message should be displayed.
+   - **Actual Outcome":
+   - **Pass/Fail":
